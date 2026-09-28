@@ -75,9 +75,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?moinul-islam-dev=MOINUL-ISLAM-DEV&show_icons=true&hide_border=true&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?moinul-islam-dev=MOINUL-ISLAM-DEV&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
