@@ -6,7 +6,13 @@
 <!-- Introduction -->
 <div align="center">
 
-# Hi 👋, I'm Moinul Islam
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Moinul+Islam....;Welcome+to+my+page!&center=true&size=30">
+  </a>
+</h1>
+
 
 ### CSE Student | Frontend Developer | React & Next.js | Building AI-powered web applications
 
@@ -88,7 +94,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/s-m-moinul-islam-352767421/">
+  <a href="https://www.linkedin.com/in/devmoinulislam/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40">
   </a>
 </p>
