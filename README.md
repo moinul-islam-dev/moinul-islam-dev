@@ -1,7 +1,7 @@
  <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="assets/moinul-islam-banner.svg" alt="Moinul Islam" width="100%">
+  <img src="assets/build-learn-evolve-banner.svg" alt="Moinul Islam" width="100%">
 </p>
 
 <!-- ===================== INTRODUCTION ===================== -->
