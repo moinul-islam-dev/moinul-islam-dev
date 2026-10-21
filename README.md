@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  CSE Undergraduate | Full-Stack Developer | React, Next.js & TypeScript
+  CSE Undergraduate | Full-Stack Developer | React, Next.js & TypeScript | Mongo DB, Node, & Express
 </h3>
 
 <p align="center">
